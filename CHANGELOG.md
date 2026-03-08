@@ -1,5 +1,8 @@
 # Release Notes
 
+## Next
+- Added multi-stage multi-arch Containerfile with container usage documentation
+
 ## 0.5.0
 - Implemented and used standalone embedding processing module to reduce multi-modal modeling complexity and reduce Eagle inference memory footprint
 - Added FP8 KV Cache support

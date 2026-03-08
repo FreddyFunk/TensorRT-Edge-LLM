@@ -16,6 +16,7 @@ for large language models and vision-language models on edge devices.
    developer_guide/getting-started/overview.md
    developer_guide/getting-started/supported-models.md
    developer_guide/getting-started/installation.md
+   developer_guide/getting-started/container.md
    developer_guide/getting-started/quick-start-guide.md
    developer_guide/getting-started/examples.md
    developer_guide/getting-started/input-format.md
